@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Nate/CLionProjects/Dictionary/Dictionary.h
+KeyValue.h
+C:/Users/Nate/CLionProjects/Dictionary/KeyValue.h
+string
+-
+iostream
+-
+
+C:/Users/Nate/CLionProjects/Dictionary/KeyValue.h
+
+C:/Users/Nate/CLionProjects/Dictionary/TestSuites/TestMain.cpp
+TestSuites.h
+C:/Users/Nate/CLionProjects/Dictionary/TestSuites/TestSuites.h
+
+C:/Users/Nate/CLionProjects/Dictionary/TestSuites/TestSuites.cpp
+TestSuites.h
+C:/Users/Nate/CLionProjects/Dictionary/TestSuites/TestSuites.h
+
+C:/Users/Nate/CLionProjects/Dictionary/TestSuites/TestSuites.h
+../Dictionary.h
+C:/Users/Nate/CLionProjects/Dictionary/Dictionary.h
+
+C:/Users/Nate/CLionProjects/Dictionary/main.cpp
+iostream
+-
+
